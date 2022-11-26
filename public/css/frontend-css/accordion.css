@@ -1,0 +1,42 @@
+   
+  .myaccordion {
+    max-width: 98%;
+    margin: 10px;
+    box-shadow: 0 0 1px rgba(0,0,0,0.1);
+  }
+  
+  .myaccordion .card,
+  .myaccordion .card:last-child .card-header {
+    border: none;
+  }
+  
+  /* .card-header h2{
+    float:left;
+    /* margin: 0 0 12px; 
+  } */
+  .myaccordion .card-header {
+    border-bottom-color: #EDEFF0;
+    background: transparent;
+  }
+  
+  .myaccordion .fa-stack {
+    font-size: 18px;
+  }
+  
+  .myaccordion .btn {
+    width: 100%;
+    font-weight: bold;
+    color: #004987;
+    padding: 0;
+    font-size: 12px;
+  }
+  
+  .myaccordion .btn-link:hover,
+  .myaccordion .btn-link:focus {
+    text-decoration: none;
+    outline: none;
+  }
+  
+  .myaccordion li + li {
+    margin-top: 10px;
+  }

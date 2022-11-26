@@ -1,0 +1,120 @@
+/*
+#1 color = #03A853;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+    color: #03A853;
+}
+
+.circled {
+	background: #03A853;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #03A853;
+}
+
+.scrollup:hover {
+	background: #03A853;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #03A853;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #03A853;
+  border-color: #03A853;
+}
+
+
+/* top */
+.top-area {
+	background: #03A853;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #03A853;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color: #03A853;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #03A853;
+}
+
+
+.bg-skin {
+	background: #03A853;
+}
+
+.highlight-color {
+	background-color: #03A853;
+}
+.color {
+	color: #03A853;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#03A853;
+}
+.pricing-content.featured h3 {
+	background:#03A853;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #03A853;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #03A853;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #03A853;
+    border:1px solid #03A853;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #03A853;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #03A853;
+    border-color: #03A853;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #03A853;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #03A853;
+}
+
+.form-control:focus {
+  border-color: #03A853;
+}

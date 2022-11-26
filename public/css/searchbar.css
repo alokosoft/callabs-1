@@ -1,0 +1,87 @@
+#search-fs {
+   overflow: hidden;
+  margin: 2px auto;
+  width: 600px;
+  max-width: 100%;
+}
+
+#search-fs .fa {
+  position: absolute;
+  left: 9%;
+  top: 38%;
+  color: #555;
+}
+
+#search-fs input#search-text {
+  border: 0;
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .30), 0 1px 3px 1px rgba(60, 64, 67, .15);
+  padding: 12px 2px 12px 30px;
+  margin: 12px;
+  border-radius: 10px;
+  width: 500px;
+  font-family: inherit;
+  
+  font-size: 16px;
+  max-width: 100%;
+  color: #000;
+  font-weight: 400;
+  outline: none;
+}
+
+#search-fs button {
+  background: #fbdc03;
+  border: none;
+  color: #000;
+  font-family: inherit;
+  
+  text-transform: uppercase;
+  font-weight: 700;
+  position: absolute;
+  top: 0;
+  right: 4px;
+  padding: 9px 12px;
+  border-radius: 10px;
+  margin: 17px 46px;
+  cursor: pointer;
+  outline: none;
+
+}
+
+#search-fs button:hover {
+  background: #0774ff;
+  color: #fff;
+  transition: all .4s
+}
+
+
+.fourth {
+  border-color: #646efa;
+  color: #fff;
+  background-image: linear-gradient(45deg, #646efa 100%, transparent 50%);
+  position: 100%;
+  size: 400%;
+  box-sizing: border-box;
+  appearance: none;
+  background-color: transparent;
+   border-radius: 0.6em;
+   cursor: pointer;
+  display: flex;
+  align-self: center;
+  font-size: inherit;
+  font-weight: 300;
+  line-height: 1;
+  margin: 20px;
+  padding: 1.2em 2.9em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+   font-weight: 700;
+  
+  transition: linear-gradient(45deg,#f1c40f 50%, transparent 50%) 300ms ease-in-out; 
+
+
+}
+
+.fourth:hover {
+  background-position: 0;
+}
